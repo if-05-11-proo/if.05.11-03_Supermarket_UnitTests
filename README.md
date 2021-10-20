@@ -1,4 +1,4 @@
-# if.05.11-03_Supermarket - UnitTests
+# if.05.11-03_Supermarket - Unit Tests
 
 This assignment is supposed to be executed by a team of 2-3 students. 
 The team shall work on the repository of one team member; collaboration and release shall be done in that repo.
